@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess.new</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.0CEDAD22-7A94-4DA2-B60F-9A976C20DB9F.alacarte.customsettings.9FB55E72-54BA-4DF7-B872-9B645A06649C</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadUUID</key>
+			<string>9FB55E72-54BA-4DF7-B872-9B645A06649C</string>
+			<key>PayloadDisplayName</key>
+			<string>Block Sierra Installer</string>
+			<key>familyControlsEnabled</key>
+			<true/>
+			<key>pathBlackList</key>
+			<array>
+				<string>/Applications/Install macOS Sierra.app/</string>
+			</array>
+			<key>pathWhiteList</key>
+			<array>
+				<string>/</string>
+			</array>
+			<key>whiteList</key>
+			<array>
+			</array>
+		</dict>
+	</array>
+	<key>PayloadIdentifier</key>
+	<string>com.github.jaknz.blocksierra</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0CEDAD22-7A94-4DA2-B60F-9A976C20DB9F</string>
+	<key>PayloadOrganization</key>
+	<string>Jeremy Kemp</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadDisplayName</key>
+	<string>Block macOS Sierra Installer</string>
+</dict>
+</plist>
