@@ -17,3 +17,6 @@ fdcgdnkidjaadafnichfpabhfomcebme | ZenMate VPN
 kpiecbcckbofpmkkkdibbllpinceiihk | DotVPN
 nlbejmccbhkncgokjcmghpfloaajcffj | Hotspot Shield Free VPN Proxy
 omdakjcmkglenbhjadbccaookpfjihpa | TunnelBear
+ceopoaldcnmhechacafgagdkklcogkgd | OnlineMapFinder
+fahgbckbihhfifpchidpdaapinhkjfnc | Phases of the Moon
+hbdnlaaihddmiaeapkodgenhbofpmmlf | Loadtime Meter
