@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>MunkiReport</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>BaseUrl</key>
+								<string>http://your.munkireport.server/</string>
+								<key>ReportItems</key>
+								<dict>
+									<key>ard</key>
+									<string>/Library/Preferences/com.apple.RemoteDesktop.plist</string>
+									<key>bluetooth</key>
+									<string>/usr/local/munki/preflight.d/cache/bluetoothinfo.plist</string>
+									<key>disk_report</key>
+									<string>/usr/local/munki/preflight.d/cache/disk.plist</string>
+									<key>displays_info</key>
+									<string>/usr/local/munki/preflight.d/cache/displays.txt</string>
+									<key>filevault_status</key>
+									<string>/usr/local/munki/preflight.d/cache/filevaultstatus.txt</string>
+									<key>findmymac</key>
+									<string>/usr/local/munki/preflight.d/cache/findmymac.txt</string>
+									<key>installhistory</key>
+									<string>/Library/Receipts/InstallHistory.plist</string>
+									<key>inventory</key>
+									<string>/Library/Managed Installs/ApplicationInventory.plist</string>
+									<key>localadmin</key>
+									<string>/usr/local/munki/preflight.d/cache/localadmins.txt</string>
+									<key>location</key>
+									<string>/Library/Application Support/pinpoint/location.plist</string>
+									<key>managedinstalls</key>
+									<string>/usr/local/munki/postflight.d/cache/managedinstalls.plist</string>
+									<key>munkiinfo</key>
+									<string>/usr/local/munki/preflight.d/cache/munkiinfo.plist</string>
+									<key>munkireport</key>
+									<string>/usr/local/munki/postflight.d/cache/munkireport.plist</string>
+									<key>network</key>
+									<string>/usr/local/munki/preflight.d/cache/networkinfo.txt</string>
+									<key>power</key>
+									<string>/usr/local/munki/preflight.d/cache/powerinfo.txt</string>
+									<key>printer</key>
+									<string>/usr/local/munki/preflight.d/cache/printer.txt</string>
+									<key>profile</key>
+									<string>/usr/local/munki/preflight.d/cache/profile.txt</string>
+									<key>security</key>
+									<string>/usr/local/munki/preflight.d/cache/security.txt</string>
+									<key>timemachine</key>
+									<string>/usr/local/munki/preflight.d/cache/timemachine.txt</string>
+									<key>warranty</key>
+									<string>/usr/local/munki/preflight.d/cache/warranty.txt</string>
+									<key>wifi</key>
+									<string>/usr/local/munki/preflight.d/cache/wifi.txt</string>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.github.munkireport.preferences</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>b957d848-ee73-41cd-9520-4b30b6ca6183</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures MunkiReport to connect to your local server.</string>
+	<key>PayloadDisplayName</key>
+	<string>MunkiReport</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.munkireport</string>
+	<key>PayloadOrganization</key>
+	<string>Telco Technology Services</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>29650426-5300-45e4-bf8f-5c7e25c2ad5a</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
