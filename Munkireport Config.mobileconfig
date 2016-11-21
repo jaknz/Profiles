@@ -85,7 +85,7 @@
 	<key>PayloadIdentifier</key>
 	<string>com.github.munkireport</string>
 	<key>PayloadOrganization</key>
-	<string>Telco Technology Services</string>
+	<string>Jeremy Kemp</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>
