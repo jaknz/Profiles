@@ -12,6 +12,8 @@ gkojfkhlekighikafcpjkiklfbnlmeio | Unlimited Free VPN - Hola
 fdcgdnkidjaadafnichfpabhfomcebme | ZenMate VPN
 kpiecbcckbofpmkkkdibbllpinceiihk | DotVPN
 nlbejmccbhkncgokjcmghpfloaajcffj | Hotspot Shield Free VPN Proxy
+omghfjlpggmjjaagoclmmobgdodcjboh | Browsec VPN
+bibmocmlcdhadgblaekimealfcnafgfn | FreeMyBrowser VPN
 omdakjcmkglenbhjadbccaookpfjihpa | TunnelBear
 ceopoaldcnmhechacafgagdkklcogkgd | OnlineMapFinder
 fahgbckbihhfifpchidpdaapinhkjfnc | Phases of the Moon
