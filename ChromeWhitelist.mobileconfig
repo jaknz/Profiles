@@ -14,20 +14,14 @@
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>ExtensionInstallBlacklist</key>
+								<key>ExtensionInstallWhitelist</key>
 								<array>
-									<string>ckiahbcmlmkpfiijecbpflfahoimklke</string>
-									<string>mjnbclmflcpookeapghfhapeffmpodij</string>
-									<string>gkojfkhlekighikafcpjkiklfbnlmeio</string>
-									<string>fdcgdnkidjaadafnichfpabhfomcebme</string>
-									<string>kpiecbcckbofpmkkkdibbllpinceiihk</string>
-									<string>nlbejmccbhkncgokjcmghpfloaajcffj</string>
-									<string>omghfjlpggmjjaagoclmmobgdodcjboh</string>
-									<string>bibmocmlcdhadgblaekimealfcnafgfn</string>
-									<string>omdakjcmkglenbhjadbccaookpfjihpa</string>
-									<string>ceopoaldcnmhechacafgagdkklcogkgd</string>
-									<string>fahgbckbihhfifpchidpdaapinhkjfnc</string>
-									<string>hbdnlaaihddmiaeapkodgenhbofpmmlf</string>
+									<string>gecgipfabdickgidpmbicneamekgbaej</string>
+									<string>aohghmighlieiainnegkcijnfilokake</string>
+									<string>ghbmnnjooekpmoecnnnilnnbdlolhkhi</string>
+									<string>felcaaldnbdncclmgdcncolpebgiejap</string>
+									<string>aapocclcgogkmnckokdopfmhonfmgoek</string>
+									<string>gbkeegbaiigmenfmjfclcdgdpimamgkj</string>
 								</array>
 							</dict>
 						</dict>
@@ -47,11 +41,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Blacklists specific Chrome extensions.</string>
+	<string>Whitelists specific Chrome extensions.</string>
 	<key>PayloadDisplayName</key>
-	<string>Chrome Blacklist</string>
+	<string>Chrome Whitelist</string>
 	<key>PayloadIdentifier</key>
-	<string>nz.co.tts.chrome.blacklist</string>
+	<string>nz.co.tts.chrome.whitelist</string>
 	<key>PayloadOrganization</key>
 	<string>TTS</string>
 	<key>PayloadRemovalDisallowed</key>
