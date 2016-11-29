@@ -19,5 +19,16 @@ ceopoaldcnmhechacafgagdkklcogkgd | OnlineMapFinder
 fahgbckbihhfifpchidpdaapinhkjfnc | Phases of the Moon
 hbdnlaaihddmiaeapkodgenhbofpmmlf | Loadtime Meter
 
+## Chrome Whitelist
+Blocks ALL extensions except the following trusted Google extensions:
+Identifier | Name
+--- | ---
+gecgipfabdickgidpmbicneamekgbaej | Chrome Web Store Launcher
+aohghmighlieiainnegkcijnfilokake | Google Docs
+ghbmnnjooekpmoecnnnilnnbdlolhkhi | Google Docs Offline
+felcaaldnbdncclmgdcncolpebgiejap | Google Sheets
+aapocclcgogkmnckokdopfmhonfmgoek | Google Slides
+gbkeegbaiigmenfmjfclcdgdpimamgkj | Office Editing for Drive
+
 ## Munkireport Config
 Forces MunkiRerport settings instead of having to change them by doing fake incremental Munkireport packages. Change URL and flags as needed.
