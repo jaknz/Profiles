@@ -20,7 +20,9 @@ fahgbckbihhfifpchidpdaapinhkjfnc | Phases of the Moon
 hbdnlaaihddmiaeapkodgenhbofpmmlf | Loadtime Meter
 
 ## Chrome Whitelist
+Allows forcible installation of extensions. Installs "Office Editing for Drive" as an example.
 Blocks ALL extensions except the following trusted Google extensions:
+
 Identifier | Name
 --- | ---
 gecgipfabdickgidpmbicneamekgbaej | Chrome Web Store Launcher
